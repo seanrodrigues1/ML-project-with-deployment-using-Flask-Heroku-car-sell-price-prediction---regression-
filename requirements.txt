@@ -107,7 +107,6 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pycodestyle==2.10.0
 pycparser==2.21
-pydocstyle==6.3.0
 pyflakes==3.0.1
 Pygments==2.11.2
 pylint==2.16.2
