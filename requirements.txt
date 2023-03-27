@@ -1,3 +1,4 @@
+python==3.9
 alabaster==0.7.12
 anyio==3.5.0
 argon2-cffi==21.3.0
@@ -128,6 +129,7 @@ python-lsp-server==1.7.1
 python-slugify==5.0.2
 pytoolconfig==1.2.5
 pytz==2022.7
+pywin32==306
 pywin32-ctypes==0.2.0
 pywinpty==2.0.10
 PyYAML==6.0
